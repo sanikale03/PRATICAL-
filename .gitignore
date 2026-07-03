@@ -1,0 +1,16 @@
+# Ignore dataset as it exceeds GitHub's 100MB file limit
+creditcard.xlsx
+creditcard.csv
+
+# Python environment & checkpoints
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.virtualenv/
+venv/
+ENV/
+env/
+.env
+.env.local
+.env.*.local
